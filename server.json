@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/crates",
-  "title": "crates",
+  "title": "Crates",
   "description": "Crates.io MCP — wraps the crates.io REST API v1 (free, no auth)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/crates",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-crates",
