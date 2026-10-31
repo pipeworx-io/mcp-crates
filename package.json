@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-crates",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Crates.io MCP — wraps the crates.io REST API v1 (free, no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "crates",
     "gatewaySlug": "crates",
-    "sourceHash": "v1-534810a8891a5b34646b8da884d4c208d2980df97d9823deb3c5428f4e3829ab",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-26274cf1c3f1d495a2b3ff4986a40072585082e6596a0786b831b635d330488d",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
